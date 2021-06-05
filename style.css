@@ -108,6 +108,7 @@ ul {
 }
 
 li {
+  display: inline-block;
   font-size: 30px;
   list-style-type: none;
   padding: 10px;
@@ -169,7 +170,7 @@ li span {
   }
 
   li {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   li span {
